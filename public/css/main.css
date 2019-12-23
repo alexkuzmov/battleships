@@ -1,0 +1,30 @@
+.wrapper {
+	display: block;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.message {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.board {
+	margin: 0 auto;
+}
+
+.board .point {
+	border: 1px solid #e2e2e2;
+	padding: 5px;
+	line-height: 15px;
+	font-size: 15px;
+	width: 15px;
+	text-align: center;
+}
+
+.gameControls {
+	display: block;
+	width: 50%;
+	margin: 10px auto 0;
+	text-align: center;
+}
